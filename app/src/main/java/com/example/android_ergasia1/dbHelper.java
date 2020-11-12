@@ -12,8 +12,7 @@ import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 /*
-Kollias Anastasios MPSP19018
-Ergasia 1 - Android
+Kollias Anastasios
  */
 
 public class dbHelper extends SQLiteOpenHelper {
