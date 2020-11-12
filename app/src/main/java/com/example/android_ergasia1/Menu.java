@@ -17,8 +17,7 @@ import org.w3c.dom.Text;
 import java.util.List;
 
 /*
-Kollias Anastasios MPSP19018
-Ergasia 1 - Android
+Kollias Anastasios
  */
 
 public class Menu extends AppCompatActivity {
