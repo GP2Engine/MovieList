@@ -1,6 +1,6 @@
 # MovieList #
 
-MovieList is an Android application that its purpose is to manage a database (SQLite) that contains various movies' information.
+MovieList is an Android application, written in Java, that its purpose is to manage a database (SQLite) that contains various movies' information.
 
 * # Inserting a Movie #
 The user can insert a new movie (with unique titles) alongside many details of it (such as Title, Director, Duration, Genre, Production Year, IMDb Rating).
