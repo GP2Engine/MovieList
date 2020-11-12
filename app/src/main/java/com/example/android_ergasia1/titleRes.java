@@ -9,8 +9,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 /*
-Kollias Anastasios MPSP19018
-Ergasia 1 - Android
+Kollias Anastasios
  */
 
 public class titleRes extends AppCompatActivity {
