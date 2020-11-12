@@ -16,8 +16,7 @@ import android.widget.Toast;
 import java.util.ArrayList;
 
 /*
-Kollias Anastasios MPSP19018
-Ergasia 1 - Android
+Kollias Anastasios
  */
 
 public class listResDirector extends AppCompatActivity {
